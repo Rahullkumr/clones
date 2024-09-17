@@ -6,6 +6,7 @@ This repository contains all website clones created using html, css, etc
 
 1. Myntra - [View screenshot](#1-myntra-clone) || [See Code](https://github.com/Rahullkumr/webtech/tree/myntra_clone)
 
+    >Tech stacks used: `html` and `css`
 
 ### 1. Myntra Clone 
     
